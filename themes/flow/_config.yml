@@ -18,10 +18,10 @@ search:
 
 # friends link
 links:
-  - name: Baidu
-    url: https://www.baidu.com/
-  - name: Google
-    url: https://www.google.com/
+  - name: Github
+    url: https://github.com/JeremyTown/
+  # - name: Google
+  #   url: https://www.google.com/
 
 # navigation menu
 menu:
@@ -40,10 +40,11 @@ menu:
 
 # widgets
 widgets:
+  - links
   - recents
   - categories
   - tagcloud
-  # - links
+
 
 # Less
 less:
@@ -51,7 +52,7 @@ less:
 
 # use url, not username
 social:
-- slug: github
-  url: https://github.com/JeremyTown
+# - slug: github
+#   url: https://github.com/JeremyTown
 - slug: rss
 	url: /atom.xml

@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: JeremyTowne's Blog
+title: Jeremy's Blog
 subtitle:
 description:
 keywords:
-author: JeremyTowne
+author: Jeremy
 language: zh-CN
 timezone:
 
@@ -74,7 +74,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 
-theme: material-flow
+theme: flow
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
