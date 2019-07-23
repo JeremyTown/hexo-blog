@@ -1,0 +1,14 @@
+<section class='m_widget recents'>
+    <div class='header'>Recents</div>
+    <div class='content'>
+        <% if (site.posts){ %>
+        <ul class="entry">
+            <% site.posts.sort('-date').limit(5).each(function(item){ %>
+            <li><a class="flat-box" href="<%= url_for(item.path) %>">
+                    <div class='name'><%= item.title %></div>
+                </a></li>
+            <% }); %>
+        </ul>
+        <% } %>
+    </div>
+</section>
