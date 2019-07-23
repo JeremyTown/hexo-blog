@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Jeremy's Blog
+title: Your🌝我的❤️
 subtitle:
 description:
 keywords:
 author: Jeremy
 language: zh-CN
-timezone:
+timezone: Asia/shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
